@@ -4,6 +4,8 @@ Ikhwan Awaluddin Albab (202010370311325)
 
 La Vito Valentino M (202010370311345)
 
+
+
 DAUN NANGKA
 
 Daun nangka adalah daun yang diambil dari pohon nangka
@@ -19,6 +21,8 @@ dan berbagai penyakit kulit.
 
 Menurut sebuah laporan dari jurnal Agroteknosains tahun 2018,daun nangka terbukti mampu menghambat pertumbuhan
 bakteri Staphylococcus aureus,yaitu bakteri yang biasa menginfeksi tubuh manusia.
+
+
 
 
 LIDAH BUAYA/ALOE VERA

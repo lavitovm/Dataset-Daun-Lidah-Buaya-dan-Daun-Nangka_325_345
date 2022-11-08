@@ -1,6 +1,7 @@
 # Dataset-Daun-Lidah-Buaya-dan-Daun-Nangka_325_345
 
 Ikhwan Awaluddin Albab (202010370311325)
+
 La Vito Valentino M (202010370311345)
 
 DAUN NANGKA
@@ -22,9 +23,13 @@ bakteri Staphylococcus aureus,yaitu bakteri yang biasa menginfeksi tubuh manusia
 
 LIDAH BUAYA/ALOE VERA
 
-Lidah buaya atau bisa dikenal dengan ALOE VERA yang berbahasa latin "Barbadensis Milleer adalah sejenis tanaman yang sudah dikenal sejak ribuan tahun silam dan digunakan sebagai penyubur rambut,penyembuh luka dan untuk perawatan kulit.
+Lidah buaya atau bisa dikenal dengan ALOE VERA yang berbahasa latin 
+"Barbadensis Milleer adalah sejenis tanaman yang sudah dikenal sejak ribuan tahun silam dan digunakan sebagai penyubur rambut,
+penyembuh luka dan untuk perawatan kulit.
+
 lidah buaya telah dipergunakan untuk banyak keperluan selama berabad-abad.Kurang lebih 4000 tahun yang lalu sampai sekarang.
 lidah buaya pun banyak ditemukan dalam produk - produk seperti minuman,olesan untuk kulit,kosmetik atau obat luar untuk luka bakar dan lebih dikenal lagi untuk penumbuh rambut.
+
 aloe vera ini sendiri,adalah tumbuhan tanpa batang atau berbatang pendek,dengan tinggi hingga 60-100 cm dan dapat berkembang biak dengan tunas.
 Dedaunya berdaging tebal,berwarna hijau keabuan dan sebagian variesta memiliki bintik putih pada permukaan batangnya.Pinggir daunnya berbentuk "serrata"
 (seperti gergaji)dengan gerigi putih kecil.Bunga-bunganya tumbuh pada musim panas di sebuah tangkai setiggi hingga 90 cm. Setiap bunga tersebut berposisi menggantung,
